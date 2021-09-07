@@ -28,7 +28,7 @@ h1 {
     height: 500px;
     width: 40%;
     overflow: hidden;
-    background-image: url('../image/image.png');
+    background-image: url('./image/image.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
